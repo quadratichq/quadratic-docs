@@ -32,7 +32,7 @@ By sharing, you allow other users to view your sheet, code, etc.&#x20;
 
 To learn more about sharing and multiplayer visit the multiplayer section of the docs.&#x20;
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f3ae">🎮</span> Learn about multiplayer in Quadratic -></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f3ae">🎮</span> Learn about multiplayer in Quadratic -></td><td></td><td></td><td><a href="/broken/pages/TkqWDsJrWiyS7Laps12U">Broken link</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ## 4. Copy as PNG
 

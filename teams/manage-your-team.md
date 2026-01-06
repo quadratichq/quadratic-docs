@@ -32,7 +32,7 @@ To edit permissions, open the Members tab and make your changes to each user's p
 
 Manage your connections from the Connections tab. Connections are a direct connection to databases, data warehouses, etc.
 
-Learn more about SQL and connections [here](broken-reference).&#x20;
+Learn more about SQL and connections [here](/broken/pages/vpOwt9cqw8l0nRTcroNT).&#x20;
 
 <figure><img src="../.gitbook/assets/CleanShot 2024-07-17 at 16.55.07@2x.png" alt="" width="563"><figcaption></figcaption></figure>
 

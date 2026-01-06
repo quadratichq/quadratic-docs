@@ -12,7 +12,7 @@ Quadratic combines a familiar spreadsheet and formulas with the power of AI and 
 
 Skip to a section of interest or get started in [the short walkthrough below.](./#getting-started)
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f916">🤖</span> Learn how to use AI in Quadratic</td><td></td><td></td><td><a href="quadratic-ai/getting-started.md">getting-started.md</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f40d">🐍</span> Learn how Python works in Quadratic -></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f50c">🔌</span> Learn how to connect to your databases with SQL -></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f7e8">🟨</span> Learn how JavaScript works in Quadratic -></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f522">🔢</span> Learn how Formulas work in Quadratic -></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1fac2">🫂</span> Learn how Teams work in Quadratic -></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f916">🤖</span> Learn how to use AI in Quadratic</td><td></td><td></td><td><a href="quadratic-ai/getting-started.md">getting-started.md</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f40d">🐍</span> Learn how Python works in Quadratic -></td><td></td><td></td><td><a href="/broken/pages/VxbchdoguETkfdbxgOZQ">Broken link</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f50c">🔌</span> Learn how to connect to your databases with SQL -></td><td></td><td></td><td><a href="/broken/pages/vpOwt9cqw8l0nRTcroNT">Broken link</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f7e8">🟨</span> Learn how JavaScript works in Quadratic -></td><td></td><td></td><td><a href="/broken/pages/swsKO6SJgJdy6adUtRR3">Broken link</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f522">🔢</span> Learn how Formulas work in Quadratic -></td><td></td><td></td><td><a href="/broken/pages/DUyBOqbtHbyLBGgY5Rzj">Broken link</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1fac2">🫂</span> Learn how Teams work in Quadratic -></td><td></td><td></td><td><a href="/broken/pages/LXLgbxuSUpzar0PMAj7T">Broken link</a></td></tr></tbody></table>
 
 If you have any questions or feedback, we’d love to hear it! Share by [contacting us.](https://www.quadratichq.com/contact)
 
@@ -38,11 +38,11 @@ Picking your cell type will open the editor where you can start writing code.&#x
 
 In Quadratic you can reference cells in the spreadsheet to use in your code, and you can return results from your Python analysis back to the spreadsheet. By default, the last line of code is returned to the spreadsheet.&#x20;
 
-Single referenced cells are put in a variable with the appropriate data type. Multi-line references are placed in a DataFrame. Learn more [here](broken-reference)[.](python/reference-cells.md)&#x20;
+Single referenced cells are put in a variable with the appropriate data type. Multi-line references are placed in a DataFrame. Learn more [here](/broken/pages/VxbchdoguETkfdbxgOZQ)[.](python/reference-cells.md)&#x20;
 
 <figure><img src=".gitbook/assets/CleanShot 2024-12-03 at 10.06.45@2x.png" alt=""><figcaption></figcaption></figure>
 
-To learn more about Python, [visit the Python section of the docs.](broken-reference)
+To learn more about Python, [visit the Python section of the docs.](/broken/pages/VxbchdoguETkfdbxgOZQ)
 
 ### Use Formulas :1234:
 
@@ -50,14 +50,14 @@ Formulas in Quadratic are similar to how you'd expect in any spreadsheet. Formul
 
 <figure><img src=".gitbook/assets/CleanShot 2024-05-30 at 11.57.29.gif" alt="" width="563"><figcaption><p>Basic Formula usage in Quadratic</p></figcaption></figure>
 
-To learn more about Formulas, [visit the Formulas section of the docs. ](broken-reference)
+To learn more about Formulas, [visit the Formulas section of the docs. ](/broken/pages/DUyBOqbtHbyLBGgY5Rzj)
 
 ### Connect to your databases with SQL :house\_with\_garden:
 
 With SQL in Quadratic you can create live connections from your spreadsheets to your data sources. Data from your SQL queries is returned to the sheet, anchored at the position of the SQL cell.&#x20;
 
-Use the AI assistant to rapidly generate accurate SQL queries, and view your SQL schema in the editor's schema viewer. You can learn more [here](broken-reference) or watch a quick SQL demo below.&#x20;
+Use the AI assistant to rapidly generate accurate SQL queries, and view your SQL schema in the editor's schema viewer. You can learn more [here](/broken/pages/vpOwt9cqw8l0nRTcroNT) or watch a quick SQL demo below.&#x20;
 
 {% @arcade/embed flowId="CItgrkKi7r7wWYwiboxV" url="https://app.arcade.software/share/CItgrkKi7r7wWYwiboxV" %}
 
-To learn more about SQL and connections, [visit the SQL section of the docs.](broken-reference)
+To learn more about SQL and connections, [visit the SQL section of the docs.](/broken/pages/vpOwt9cqw8l0nRTcroNT)

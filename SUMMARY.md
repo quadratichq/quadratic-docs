@@ -66,6 +66,7 @@
 * [Insert/delete rows and columns](spreadsheet/insert-delete-rows-and-columns.md)
 * [Data validation](spreadsheet/data-validation.md)
 * [Present & share](spreadsheet/present-and-share.md)
+* [Scheduled tasks](spreadsheet/scheduled-tasks.md)
 * [Date-time formatting](spreadsheet/date-time-formatting.md)
 * [Browser compatibility](spreadsheet/browser-compatibility.md)
 
