@@ -23,6 +23,7 @@
 * [BigQuery](connections/bigquery.md)
 * [Snowflake](connections/snowflake.md)
 * [Google Analytics](connections/google-analytics.md)
+* [Mixpanel](connections/mixpanel.md)
 * [Parametrize queries](connections/parametrize-queries.md)
 * [SQL AI assistant](connections/sql-ai-assistant.md)
 * [Security](connections/security.md)
