@@ -40,3 +40,9 @@ To find your Google Analytics Property ID:
 4. Click "Add users" and paste the service account email.
 5. Assign the Editor role (recommended for setup; you can downgrade to Viewer later).
 6. Save changes.
+
+
+
+Watch this video for a detailed walk-through of the setup process:
+
+{% embed url="https://www.youtube.com/watch?v=FJvcuvSFTtM" %}
