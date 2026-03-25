@@ -71,6 +71,7 @@
 * [Scheduled tasks](spreadsheet/scheduled-tasks.md)
 * [Date-time formatting](spreadsheet/date-time-formatting.md)
 * [Browser compatibility](spreadsheet/browser-compatibility.md)
+* [Embedding Quadratic spreadsheets](spreadsheet/embedding-quadratic-spreadsheets.md)
 
 ## Teams
 
@@ -109,12 +110,10 @@
 ## Company
 
 * [About](https://www.quadratichq.com/company)
-* [Quadratic is source available](company/quadratic-is-source-available.md)
 * [Brand assets](company/brand-assets.md)
 
 ***
 
-* [GitHub](https://github.com/quadratichq/quadratic)
 * [Blog](https://www.quadratichq.com/blog)
 * [Twitter](https://twitter.com/quadratichq)
 * [Discord](https://discord.gg/xP46BNCJpy)
