@@ -71,7 +71,7 @@
 * [Scheduled tasks](spreadsheet/scheduled-tasks.md)
 * [Date-time formatting](spreadsheet/date-time-formatting.md)
 * [Browser compatibility](spreadsheet/browser-compatibility.md)
-* [Embedding Quadratic spreadsheets](spreadsheet/embedding-quadratic-spreadsheets.md)
+* [Embedding Quadratic spreadsheets](spreadsheet/embed.md)
 
 ## Teams
 
