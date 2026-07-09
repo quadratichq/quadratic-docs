@@ -4,36 +4,51 @@ description: Schedule tasks to run in your spreadsheet at set intervals.
 
 # Scheduled tasks
 
-Quadratic scheduled tasks allow you to set specific timeframes for your sheet to run automatically. Cloud runners execute your code automatically without needing your intervention.&#x20;
+## Scheduled tasks
 
-### Accessing scheduled tasks&#x20;
+Quadratic scheduled tasks run your sheet automatically on a schedule you set. Cloud runners execute your code without needing your browser open — connect a data source, schedule a refresh, and your sheet stays current.
 
-Access scheduled tasks from the sidebar
+#### Accessing scheduled tasks
 
-<figure><img src="../.gitbook/assets/CleanShot 2026-01-05 at 18.13.42@2x.png" alt=""><figcaption></figcaption></figure>
+Access scheduled tasks from the sidebar. The panel lists every task in the file with its schedule and run history. You can also filter your dashboard's file list to show only files with scheduled tasks.
 
-### Schedule your task&#x20;
+<figure><img src="https://2438361843-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Ff1Y5UzPF2x1oIzVJbUK8%2Fuploads%2F4ezkeYCWNf31EvG6VTSp%2FCleanShot%202026-01-05%20at%2018.13.42%402x.png?alt=media&#x26;token=768e681a-bd21-4809-8612-e0e573769744" alt=""><figcaption></figcaption></figure>
 
-#### Task types: Run file, Run sheet, Run selection&#x20;
+#### Schedule your task
 
-**Run file:** executes everything in the entire spreadsheet.&#x20;
+**Task types: Run file, Run sheet, Run selection**
 
-**Run sheet:** only executes a single selected sheet.&#x20;
+**Run file:** executes everything in the entire spreadsheet.
 
-**Run selection:** only executes a selection in a single sheet.&#x20;
+**Run sheet:** only executes a single selected sheet.
 
-### Intervals: hourly, daily, custom cron&#x20;
+**Run selection:** only executes a selection in a single sheet.
 
-Set hourly, daily or custom cron timeframes.&#x20;
+#### Intervals: hourly, daily, custom cron
 
-Cron examples:&#x20;
+Set hourly, daily or custom cron timeframes.
 
-| Cron expression  | Translation                        |
-| ---------------- | ---------------------------------- |
-| 0 0 \* \* \*     | Every day at 12:00 AM              |
-| 0 0 \* \* FRI    | At 12:00 AM, only on Friday        |
-| 0 0 1 \* \*      | At 12:00 AM, on day 1 of the month |
-| 0 \* \* \* \*    | Every hour                         |
+* **Daily** — pick the days of the week and a time.
+* **Hourly** — runs at a chosen minute past each hour.
+* **Custom cron** — full cron expressions for anything else.
 
-<figure><img src="../.gitbook/assets/CleanShot 2026-01-05 at 18.18.05@2x.png" alt=""><figcaption></figcaption></figure>
+Pick your timezone when creating the task — schedules are stored in UTC and displayed in the timezone you choose.
 
+{% hint style="warning" %}
+Tasks can run at most once per hour. Custom cron expressions more frequent than hourly are rejected.
+{% endhint %}
+
+Cron examples:
+
+| Cron expression | Translation                        |
+| --------------- | ---------------------------------- |
+| 0 0 \* \* \*    | Every day at 12:00 AM              |
+| 0 0 \* \* FRI   | At 12:00 AM, only on Friday        |
+| 0 0 1 \* \*     | At 12:00 AM, on day 1 of the month |
+| 0 \* \* \* \*   | Every hour                         |
+
+<figure><img src="https://2438361843-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Ff1Y5UzPF2x1oIzVJbUK8%2Fuploads%2Flk5yqoQlgPAiIuy22T6U%2FCleanShot%202026-01-05%20at%2018.18.05%402x.png?alt=media&#x26;token=adb1c781-8eb6-4f19-a62f-01fc559fe2dc" alt=""><figcaption></figcaption></figure>
+
+#### Manage tasks with AI
+
+Ask the AI to manage schedules for you: "run this sheet every weekday at 7am" creates the task. You can also ask it to list, edit, pause, or delete tasks and to summarize recent run history.
